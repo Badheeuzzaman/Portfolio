@@ -35,7 +35,7 @@ export default function Contact() {
                     badheeuzzaman2002@gmail.com
                   </div>
                 </a>
-                <a href="#" className="contact-link">
+                <a href="https://github.com/Badheeuzzaman" className="contact-link">
                   <div className="contact-link-icon"><i className="fab fa-github"></i></div>
                   <div className="contact-link-text">
                     <span>GitHub</span>
